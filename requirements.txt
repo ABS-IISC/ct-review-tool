@@ -1,4 +1,1 @@
 Flask==2.3.3
-python-docx==0.8.11
-Werkzeug==2.3.7
-lxml==4.9.3
